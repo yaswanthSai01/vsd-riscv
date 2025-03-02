@@ -51,12 +51,14 @@ Each task folder contains relevant code, documentation, and results.
 
 ---
 
-### 📝 Task 3: [Title of Task 3]
-- **Brief summary of Task 3**.
-- **Key steps taken**.
-- **Observations/Results**.
+### 📝 Task 3: RISC-V Instruction Analysis
+- Reviewed **RISC-V software documentation** to understand the `R`, `I`, `S`, `B`, `U`, and `J` instruction types.
+- Examined a **sample GitHub repository** for a visual guide on decoding RISC-V instructions.
+- Extracted **15 unique RISC-V instructions** from the `riscv-objdump` of the application code.
+- Identified the **exact 32-bit instruction codes** for these instructions in their respective formats.
+- Uploaded the **32-bit instruction patterns** to the repository.
 
-![Task 3 Image](images/task3.png)
+![Task 3 Instruction Analysis](images/task3_instructions.png)
 
 ➡️ [Task 3 Details](Task_3/README.md)
 
