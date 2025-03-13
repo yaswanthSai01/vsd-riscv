@@ -64,10 +64,15 @@ Each task folder contains relevant code, documentation, and results.
 
 ---
 
-### 📝 Task 4: [Title of Task 4]
-- **Brief summary of Task 4**.
-- **Key steps taken**.
-- **Observations/Results**.
+## Task 4: Functional Simulation of RISC-V Core  
+
+### Objective  
+Simulate the RISC-V Core using a Verilog netlist and testbench to verify its functionality.  
+
+### Steps  
+- Download the Verilog netlist and testbench.  
+- Set up a Verilog simulator like **iverilog** or **ModelSim**.  
+- Run the simulation and observe waveform from GTKWave.
 
 ![Task 4 Image](images/task4.png)
 
